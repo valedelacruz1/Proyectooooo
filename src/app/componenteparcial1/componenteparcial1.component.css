@@ -1,0 +1,45 @@
+.colorfondo {
+    background: red;
+}
+
+header { 
+    background: rosybrown;
+    color: white;
+    text-align: left;
+    text-indent: 10%;
+
+}
+
+footer{
+    background: rgb(243, 32, 243);
+    color: white;
+    text-align: left;
+    background-size: 30vh;
+    height : 50px; 
+
+}
+
+.colorfondocolumna1 {
+    background: rgb(163, 24, 163);
+
+}
+
+.colorfondocolumna2 {
+    background: rgb(235, 235, 12); 
+    color:black;
+}
+
+
+.colorfondocolumna3{
+
+background: black;
+color: white;
+word-spacing: 2vh;
+
+}
+
+.colorfondocolumna4{
+
+    background: white;
+
+}
